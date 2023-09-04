@@ -21,12 +21,9 @@
             title: event.target['title'].value,
             minAnnualCompensation: event.target['minAnnualCompensation'].value,
             maxAnnualCompensation: event.target['maxAnnualCompensation'].value,
-            highlight: event.target['highlight'].value,
             description: event.target['description'].value,
-            responsibilities: event.target['responsibilities'].value,
             requirements: event.target['requirements'].value,
             applicationInstructions: event.target['applicationInstructions'].value,
-            qualification: event.target['qualification'].value,
             location: event.target['location'].value,
             employer: event.target['employer'].value
         }
